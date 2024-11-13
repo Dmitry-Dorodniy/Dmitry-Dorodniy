@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dmitry-Dorodniy
 - 👀 I’m iOS developer
-- 🌱 I’m continuously learning Swift and iOS development.
+- 🌱 Swift, UIKit, SwiftUI
 
 <!---
 Dmitry-Dorodniy/Dmitry-Dorodniy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
